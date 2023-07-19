@@ -1,5 +1,3 @@
-function Footer() {
+export default function Footer() {
   return <div className="footer">Lacagtaada ilaasho 🙃</div>;
 }
-
-export default Footer;
